@@ -1,0 +1,19 @@
+.sorted {
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+h2.sorted_title {
+  margin: 50px 0;
+  font-weight: 500;
+  color: #222;
+}
+.sorted section {
+  padding: 0 4%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: start;
+  align-items: center;
+}
+
